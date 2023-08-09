@@ -1,0 +1,23 @@
+{
+  "name": "@noumanshah436/sort-array",
+  "version": "1.0.0",
+  "description": "sort array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noumanshah436/sort-array.git"
+  },
+  "keywords": [
+    "sort",
+    "array"
+  ],
+  "author": "Syed Nouman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noumanshah436/sort-array/issues"
+  },
+  "homepage": "https://github.com/noumanshah436/sort-array#readme"
+}
